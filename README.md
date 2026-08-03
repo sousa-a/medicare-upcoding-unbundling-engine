@@ -30,7 +30,8 @@ The pipeline evaluates providers using a multi-stage rule and anomaly detection 
     Read the Deep-Dive
 
 For a comprehensive breakdown of the methodology, SQL query optimization, and the transition from heuristic scoring to Isolation Forest anomaly detection, read the full write-up on Medium:
-Detecting Medicare Fraud at Scale: Building an Upcoding & Unbundling Detection Engine on 230 Million Claims
+Detecting Medicare Fraud at Scale: Building an Upcoding & Unbundling Detection Engine on 230 Million Claims.
+
 https://medium.com/@alessandro.oof/detecting-medicare-fraud-at-scale-building-an-upcoding-unbundling-detection-engine-on-230-4de555db568d
 
 Important Caveat
