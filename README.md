@@ -4,8 +4,8 @@
 
 [![Medium](https://img.shields.io/badge/Medium-Deep_Dive-black?style=flat&logo=medium)](https://medium.com/@alessandro.oof/detecting-medicare-fraud-at-scale-building-an-upcoding-unbundling-detection-engine-on-230-4de555db568d))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aosousa)
-[![Companion Project](https://img.shields.io/badge/Companion-Upcoding_%26_Unbundling-green?style=flat)](https://github.com/sousa-a/provider-aberrant-billing-detection)
-[![Companion Project](https://img.shields.io/badge/Companion-Upcoding_%26_Unbundling-green?style=flat)](https://github.com/sousa-a/medicare-phantom-billing-engine)
+[![Companion Project](https://img.shields.io/badge/Companion-Aberrant_Billing-green?style=flat)](https://github.com/sousa-a/provider-aberrant-billing-detection)
+[![Companion Project](https://img.shields.io/badge/Companion-Phantom_Billing-green?style=flat)](https://github.com/sousa-a/medicare-phantom-billing-engine)
 
 An automated, data-driven analytical pipeline built to detect the two most prevalent forms of healthcare billing fraud—Upcoding and Unbundling—across 230 million synthetic Medicare claims.
 
