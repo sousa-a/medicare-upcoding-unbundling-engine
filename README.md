@@ -7,7 +7,7 @@
 [![Companion Project](https://img.shields.io/badge/Companion-Aberrant_Billing-green?style=flat)](https://github.com/sousa-a/provider-aberrant-billing-detection)
 [![Companion Project](https://img.shields.io/badge/Companion-Phantom_Billing-green?style=flat)](https://github.com/sousa-a/medicare-phantom-billing-engine)
 
-An automated, data-driven analytical pipeline built to detect the two most prevalent forms of healthcare billing fraud—Upcoding and Unbundling—across 230 million synthetic Medicare claims.
+An automated, data-driven analytical pipeline built to detect the two most prevalent forms of healthcare billing fraud-Upcoding and Unbundling-across 230 million synthetic Medicare claims.
 
 This project demonstrates how to architect a production-grade detection engine using in-process OLAP databases and unsupervised machine learning, operating efficiently on a standard local machine without the need for distributed computing clusters (e.g., Spark).
 Tech Stack & Data
