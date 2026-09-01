@@ -44,16 +44,22 @@ https://medium.com/@alessandro.oof/detecting-medicare-fraud-at-scale-building-an
 Important Caveat
 
 The CMS DE-SynPUF is fully synthetic data. Provider numbers, NPI numbers, and diagnosis/procedure codes have been randomized as part of the CMS disclosure treatment. Multivariate relationships between variables are altered. The results outputted by this engine should not be interpreted as evidence of actual real-world fraud. The value of this repository lies in demonstrating the architectural pipeline, SQL logic, and ML methodology that would be applied to real Identifiable Medicare claims.
-
 ## Related projects
 
 This is part of a three-project FWA portfolio:
 
 | Project | Focus | GitHub | Medium |
-|---|---|---|
+|---|---|---|---|
 | P1 | Upcoding & unbundling detection | https://github.com/sousa-a/medicare-upcoding-unbundling-engine | https://medium.com/@alessandro.oof/detecting-medicare-fraud-at-scale-building-an-upcoding-unbundling-detection-engine-on-230-4de555db568d |
 | P2 | Phantom billing detection | https://github.com/sousa-a/medicare-phantom-billing-engine | https://medium.com/@alessandro.oof/detecting-medicare-phantom-billing-at-scale-building-a-post-mortem-claims-impossible-service-day-c8d57a6b9c3c |
 | P3 | Provider aberrant billing pattern detection | https://github.com/sousa-a/provider-aberrant-billing-detection | https://medium.com/@alessandro.oof/detecting-aberrant-medicare-billing-patterns-a-multi-method-framework-using-synthetic-cms-data-5660d71e2839 |
 
 These projects used data from CMS 2008-2010 Data Entrepreneurs’ Synthetic Public Use File (DE-SynPUF).
 https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-claims-synthetic-public-use-files/cms-2008-2010-data-entrepreneurs-synthetic-public-use-file-de-synpuf
+
+---
+
+## Author
+
+**Alessandro Oliveira de Sousa**  
+August 2026
